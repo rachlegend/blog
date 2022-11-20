@@ -29,7 +29,8 @@ module.exports = {
    */
   theme: 'reco',
   themeConfig: {
-    repo: '',
+    repo: 'https://github.com/salutonly/blog',
+    repoLabel: 'Github',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
@@ -64,7 +65,7 @@ module.exports = {
       '/guide/': [
         {
           title: 'Guide',
-          collapsable: true,
+          collapsable: false,
           children: [
             '',
             'using-vue',
