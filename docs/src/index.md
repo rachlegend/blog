@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://github.com/salutonly/blog/hero.png
+heroImage: https://v2.vuejs.org/images/logo.svg
 tagline: 
 actionText: Begin →
 actionLink: /guide/
